@@ -1,2 +1,1 @@
-# InstaHack-Test
-Instahack test for termux and has passwords
+InstaHack with Password List, about 10 million different passwords! 
